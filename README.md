@@ -1,6 +1,6 @@
 # Learning about GitFlow
 
-# Branches
+# Branches in GitFlow
 1. main
 2. develop
 3. feature/
